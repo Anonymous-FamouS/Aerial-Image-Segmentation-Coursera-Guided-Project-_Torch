@@ -58,10 +58,12 @@ Model input and prediction (road segmentation):
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/02a6fd8d-b5c0-46a6-824c-3e68664179a2" width="1200"/>
+  <img src="https://github.com/user-attachments/assets/9f2412df-cd53-4efb-91cd-85fe36614afa" width="1200"/>
 </p>
 
+
 ---
+
 
 ## 📌 Notes
 
@@ -75,4 +77,4 @@ Model input and prediction (road segmentation):
 - Guided project by Coursera  
 - Dataset by [Volodymyr Mnih](https://www.cs.toronto.edu/~vmnih/) (University of Toronto)
 
-> ⚠️ **For educational use only.** Do not reuse course-specific materials unless permitted by the platform's terms.
+> ⚠️ **For educational use only.** 
